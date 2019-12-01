@@ -1,0 +1,60 @@
+body{
+    background-color: #9c9;
+    outline-color: black;
+    padding: 20px;
+}
+
+.vertical-line{
+  background-color: lightgrey;
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  height: 900px;
+  padding: 20px;
+  max-height: 100%;
+  overflow: auto;
+}
+
+.hrr{
+    border-bottom: 2px solid black;
+}
+
+#h21{
+
+    text-align: center;
+
+}
+
+h2{
+    text-decoration: underline overline;
+
+}
+
+h3{
+    text-decoration: underline;
+    text-align: center;
+}
+
+p{
+    font-size: large;
+    line-height: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#p1{
+    text-align: center;
+    font-style: italic;
+  
+}
+
+#img1{
+    display: block;
+    height: 250px;
+    width: 250px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px dashed black;
+    border-radius: 360px;
+
+}
